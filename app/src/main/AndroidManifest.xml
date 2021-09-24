@@ -21,7 +21,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".Bai1"/>
-        <activity android:name=".Bai2"/>
     </application>
 
 </manifest>
