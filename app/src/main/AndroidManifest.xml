@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab3_AndroidAdvanced">
         <activity
-            android:name=".MainActivity"
+            android:name=".PH15766MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

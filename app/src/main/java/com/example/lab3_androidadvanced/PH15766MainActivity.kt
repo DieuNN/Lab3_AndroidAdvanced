@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.lab3_androidadvanced.databinding.ActivityMainBinding
 
-class MainActivity : AppCompatActivity() {
+class PH15766MainActivity : AppCompatActivity() {
     // Họ tên: Nông Ngọc Diệu
     // MSSV: DieuNNPH15766
     lateinit var binding: ActivityMainBinding
